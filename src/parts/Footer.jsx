@@ -32,10 +32,10 @@ export default function Footer() {
               Instagram
             </Button>
             <Button href="https://www.linkedin.com/in/racmat-hafidz-89982a156/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              LinkedIn
+              Facebook
             </Button>
             <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              Github
+              LinkedIn
             </Button>
           </div>
         </div>
@@ -43,14 +43,6 @@ export default function Footer() {
           <p className="text-lg text-gray-400 font-light">
             Copyright 2021 - All rights reserved - Racxstudio
           </p>
-          <div className="flex-row">
-            <p className="inline-block text-lg text-gray-400 font-light">
-              Made with &#x2764; by&nbsp;
-            </p>
-            <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="text-lg text-theme-purple font-light" isExternal>
-              Racmat Hafidz Fadli
-            </Button>
-          </div>
         </div>
       </div>
     </div>
